@@ -1,0 +1,4 @@
+server:
+  port: 8080
+
+# Provide GEMINI_API_KEY as env variable, referenced by GeminiStreamingService
